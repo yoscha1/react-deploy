@@ -43,7 +43,7 @@ const portfolioProjects = [
     results: [
       { title: "Predictive Exam Paper Generation" },
       { title: "Interactive Web Application" },
-      { title: "Increased mobile traffic by 35%" },
+      
     ],
     link: "https://github.com/leilaigl/ml-exam-paper-analysis",
     image: predictive,
