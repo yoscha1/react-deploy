@@ -36,7 +36,7 @@ const testimonials = [
   {
     name: "Michael Brown",
     position: "Director of IT @ MegaCorp",
-    text: "Alex's work on our website has been nothing short of exceptional. He&apos;s a talented developer who is also a great communicator. We highly recommend him.",
+    text: "Alex&apos;s work on our website has been nothing short of exceptional. He&apos;s a talented developer who is also a great communicator. We highly recommend him.",
     avatar: memojiAvatar5,
   },
 ];
